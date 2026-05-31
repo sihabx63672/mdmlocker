@@ -1,0 +1,6 @@
+{
+  "name": "Remote Screen Locker",
+  "description": "High-security remote screen lock utility with admin controller panel, boot recovery, and custom lock overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
